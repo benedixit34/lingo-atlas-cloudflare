@@ -59,10 +59,10 @@ export default function SiteFooter() {
             </p>
 
             <a
-              href="mailto:info@afro-european.com"
+              href="mailto:aerecruitment@mylingoatlas.com"
               className="mt-3 inline-block break-all text-sm font-semibold text-[#8500bd] hover:text-[#61008f]"
             >
-              info@afro-european.com
+              aerecruitment@mylingoatlas.com
             </a>
           </div>
         </div>

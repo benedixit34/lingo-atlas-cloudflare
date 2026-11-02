@@ -18,8 +18,8 @@ const openRoles = [
     field: "Human Resource Management",
   },
   {
-    slug: "yoruba-language-instructor",
-    title: "Yoruba Language Tutor",
+    slug: "yoruba-teaching-professional",
+    title: "Yoruba Teaching Professional",
     description:
       "Help learners discover the Yoruba language and culture through engaging, practical lessons. Teach speaking, listening, pronunciation, vocabulary, and everyday expressions in a way that makes learning accessible and enjoyable.",
     field: "Language Education",

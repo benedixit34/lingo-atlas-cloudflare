@@ -86,7 +86,7 @@ export default function SiteHeader({ desktopJoinEmail }: SiteHeaderProps) {
           </Link>
 
           <a
-            href="mailto:info@afro-european.com?subject=General%20Enquiry"
+            href="mailto:aerecruitment@mylingoatlas.com?subject=General%20Enquiry"
             className="text-sm font-medium text-[#716a7c] transition hover:text-[#8500bd]"
           >
             Contact
@@ -159,7 +159,7 @@ export default function SiteHeader({ desktopJoinEmail }: SiteHeaderProps) {
             Careers
           </Link>
           <a
-            href="mailto:info@afro-european.com?subject=General%20Enquiry"
+            href="mailto:aerecruitment@mylingoatlas.com?subject=General%20Enquiry"
             onClick={closeMenu}
             className="rounded-xl px-4 py-3 text-sm font-medium text-[#5f566a] hover:bg-[#f8f0fc]"
           >

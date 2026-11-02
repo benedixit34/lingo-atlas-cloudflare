@@ -171,7 +171,7 @@ export const jobs: Job[] = [
     "coverLetterPlaceholder": "Tell us about your product management experience and why you're interested in this role."
   },
   {
-    "slug": "yoruba-language-instructor",
+    "slug": "yoruba-teaching-professional",
     "title": "Yoruba Language Tutor | Afro-European Learning",
     "description": "Explore the Yoruba Language Tutor opportunity at Afro-European Learning. Discover the role, requirements and how to apply.",
     "headline": {
